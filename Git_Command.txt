@@ -1,0 +1,5 @@
+git config --global user.name "shanxijin"
+
+git config --global user.email tin.shanxijin@gmail.com
+
+git clone https://github.com/shanxijin/TestGit.git
