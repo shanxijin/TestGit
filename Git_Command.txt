@@ -3,3 +3,11 @@ git config --global user.name "shanxijin"
 git config --global user.email tin.shanxijin@gmail.com
 
 git clone https://github.com/shanxijin/TestGit.git
+
+git add "file name"
+
+git commit -m "comment 1" "file name"
+
+git push -u origin master
+
+git commit -m "comment 2" "file name"
